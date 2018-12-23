@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PKiller</string>
+    <string name="kill_button">Kill</string>
+</resources>
